@@ -1,0 +1,7 @@
+---
+format: gfm
+editor: visual
+output-file: "README_NO_R"
+---
+
+This README WILL render properly in RStudio, regardless of whether there is a `_quarto.yml` file present.

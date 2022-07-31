@@ -1,0 +1,10 @@
+---
+format: gfm
+editor: visual
+---
+
+This README WILL render properly in RStudio if a `_quarto.yml` file is present or absent.
+
+```{r}
+mtcars
+```
